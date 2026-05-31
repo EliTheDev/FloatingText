@@ -1,0 +1,10 @@
+name: FloatingText
+version: 1.0.0
+description: A plugin for displaying floating text
+main: eli\floatingtext\Main
+api: 5.0.0
+author: Eli
+permissions:
+  floatingtext.command:
+    description: Allows using FloatingText
+    default: op
