@@ -23,9 +23,9 @@ All commands require the `floatingtext.command` permission (granted to OPs by de
 3. Edit configurations inside `plugin_data/FloatingText/texts.yml` if you wish to change language settings or command prefixes.
 
 ## Shaded Libraries
-This plugin includes a shaded version of [PMServerUI](https://github.com/DavyCraft648/PMServerUI) to render user interface components.
-This plugin includes a shaded version of [SimplePacketHandler](https://github.com/Muqsit/SimplePacketHandler) to allow reading and handling of packets.
-This plugin includes a shaded version of [Commando](https://github.com/Paroxity/Commando) to allow the usage & creation of hybrid commands.
+* This plugin includes a shaded version of [PMServerUI](https://github.com/DavyCraft648/PMServerUI) to render user interface components.
+* This plugin includes a shaded version of [SimplePacketHandler](https://github.com/Muqsit/SimplePacketHandler) to allow reading and handling of packets.
+* This plugin includes a shaded version of [Commando](https://github.com/Paroxity/Commando) to allow the usage & creation of hybrid commands.
 
 ## License
 Licensed under the [MIT License](LICENSE).
